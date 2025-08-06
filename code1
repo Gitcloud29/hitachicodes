@@ -10,4 +10,6 @@ def main():
 if __name__ == "__main__":
     # This ensures that main() is called only when the script is executed directly,
     # not when it's imported as a module into another script.
-    main()
+    main(
+
+newly added lines here)
